@@ -1,2 +1,2 @@
 ## About
-Alx backend project that consists of ES6 Basics tasks
+alx-backend-javascript repo for projects
